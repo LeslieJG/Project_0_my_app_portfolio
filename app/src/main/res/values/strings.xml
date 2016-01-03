@@ -1,0 +1,44 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=30] -->
+    <string name="app_name">My App Portfolio</string>
+
+    <!-- Title above buttons. [CHAR LIMIT=30] -->
+    <string name="title_of_all_buttons">My Nanodegree Apps!</string>
+
+    <!-- Name of Spotify Streamer Button. [CHAR LIMIT=30] -->
+    <string name="spotify_streamer">Spotify Streamer</string>
+
+    <!-- Name of Scores App Button. [CHAR LIMIT=30] -->
+    <string name="scores_app">Scores App</string>
+
+    <!-- Name of Library App Button. [CHAR LIMIT=30] -->
+    <string name="library_app">Library App</string>
+
+    <!-- Name of Build It Bigger Button. [CHAR LIMIT=30] -->
+    <string name="build_it_bigger">Build It Bigger</string>
+
+    <!-- Name of XYZ Reader Button. [CHAR LIMIT=30] -->
+    <string name="xyz_reader">XYZ Reader</string>
+
+    <!-- Name of Capstone: My Own App Button. [CHAR LIMIT=30] -->
+    <string name="capstone">Capstone: My Own App</string>
+
+    <!-- Toast Message when Spotify Streamer Button pressed [CHAR LIMIT=60] -->
+    <string name="spotify_streamer_toast">This button will launch my Spotify Streamer App</string>
+
+    <!-- Toast Message when Scores App Button pressed [CHAR LIMIT=60] -->
+    <string name="scores_app_toast">This button will launch my Scores App</string>
+
+    <!-- Toast Message when Library App Button pressed [CHAR LIMIT=60] -->
+    <string name="library_app_toast">This button will launch my Library App</string>
+
+    <!-- Toast Message when Build It Bigger Button pressed [CHAR LIMIT=60] -->
+    <string name="build_it_bigger_app_toast">This button will launch my Build It Bigger App</string>
+
+    <!-- Toast Message when XYZReader Button pressed [CHAR LIMIT=60] -->
+    <string name="XYZReader_app_toast">This button will launch my XYZReader App</string>
+
+    <!-- Toast Message when Capstone Button pressed [CHAR LIMIT=60] -->
+    <string name="capstone_app_toast">This button will launch my Capstone App</string>
+
+</resources>
