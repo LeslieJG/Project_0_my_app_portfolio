@@ -25,6 +25,6 @@
     <!-- Button Styles-->
     <style name="Button_Style" parent="General_View_style">
 <item name="android:background">#F08C35</item>
-
+<item name="android:onClick">buttonClicked</item>
     </style>
 </resources>

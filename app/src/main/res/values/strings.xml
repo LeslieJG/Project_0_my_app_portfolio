@@ -41,4 +41,7 @@
     <!-- Toast Message when Capstone Button pressed [CHAR LIMIT=60] -->
     <string name="capstone_app_toast">This button will launch my Capstone App</string>
 
+    <!--  Toast Message when a button is pushed-->
+    <string name="this_button_launches">"This button launches the "</string>
+
 </resources>
