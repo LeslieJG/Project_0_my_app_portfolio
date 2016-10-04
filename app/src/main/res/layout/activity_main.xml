@@ -20,12 +20,12 @@
     <Button
         android:id="@+id/spotify_streamer_button"
         style="@style/Button_Style"
-        android:text="@string/spotify_streamer" />
+        android:text="@string/popular_movies" />
 
     <Button
         android:id="@+id/scores_app_button"
         style="@style/Button_Style"
-        android:text="@string/scores_app" />
+        android:text="@string/stock_hawk" />
 
     <Button
         android:id="@+id/library_app_button"

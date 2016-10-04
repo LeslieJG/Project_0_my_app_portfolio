@@ -6,10 +6,10 @@
     <string name="title_of_all_buttons">My Nanodegree Apps!</string>
 
     <!-- Name of Spotify Streamer Button. [CHAR LIMIT=30] -->
-    <string name="spotify_streamer">Spotify Streamer</string>
+    <string name="popular_movies">Popular Movies App</string>
 
     <!-- Name of Scores App Button. [CHAR LIMIT=30] -->
-    <string name="scores_app">Scores App</string>
+    <string name="stock_hawk">Stock Hawk App</string>
 
     <!-- Name of Library App Button. [CHAR LIMIT=30] -->
     <string name="library_app">Library App</string>
